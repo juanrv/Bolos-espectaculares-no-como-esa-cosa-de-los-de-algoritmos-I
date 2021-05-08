@@ -1,0 +1,15 @@
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\bin\Debug\netcoreapp3.1\JuegoBolos.exe
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\bin\Debug\netcoreapp3.1\JuegoBolos.deps.json
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\bin\Debug\netcoreapp3.1\JuegoBolos.runtimeconfig.json
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\bin\Debug\netcoreapp3.1\JuegoBolos.runtimeconfig.dev.json
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\bin\Debug\netcoreapp3.1\JuegoBolos.dll
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\bin\Debug\netcoreapp3.1\JuegoBolos.pdb
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\obj\Debug\netcoreapp3.1\JuegoBolos.csprojAssemblyReference.cache
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\obj\Debug\netcoreapp3.1\JuegoBolos.Form1.resources
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\obj\Debug\netcoreapp3.1\JuegoBolos.csproj.GenerateResource.cache
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\obj\Debug\netcoreapp3.1\JuegoBolos.AssemblyInfoInputs.cache
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\obj\Debug\netcoreapp3.1\JuegoBolos.AssemblyInfo.cs
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\obj\Debug\netcoreapp3.1\JuegoBolos.csproj.CoreCompileInputs.cache
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\obj\Debug\netcoreapp3.1\JuegoBolos.dll
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\obj\Debug\netcoreapp3.1\JuegoBolos.pdb
+C:\Users\Juan Jose Restrepo\source\repos\JuegoBolos\JuegoBolos\obj\Debug\netcoreapp3.1\JuegoBolos.genruntimeconfig.cache
